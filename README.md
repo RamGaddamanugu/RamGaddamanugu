@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RamGaddamanug=
-- 👀 I’m interested in ...Squash
+- 👀 I’m interested in Playing Squash
 - 🌱 I’m currently learning ...AWS
-- 💞️ I’m looking to collaborate on ...IOT platforms
+- 💞️ I’m looking to collaborate on ...IOT platforms Developers
 - 📫 How to reach me ... ram.gaddamanugu@gmail.com
 
 <!---
