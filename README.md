@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamGaddamanug=
-- 👀 I’m interested in playing Squash
+- 👀 I’m interested in playing Squash And Raquet Ball
 - 🌱 I’m currently learning ...AWS
 - 💞️ I’m looking to collaborate on ...IOT platforms Developers
 - 📫 How to reach me ... ram.gaddamanugu@gmail.com
